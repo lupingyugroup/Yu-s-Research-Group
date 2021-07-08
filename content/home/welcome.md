@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Yu's Research Group"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Yu's group is focused on the intersection of organic chemistry and materials science with emphasis on the synthesis and understanding of organic materials with well-controlled electronic and optical properties. Our overarching philosophy is the exploration of the relationships between chemical structure and resulting properties so as to facilitate discovery of new materials for organic solar cells, organic electronics, water splitting, and other practical applications.

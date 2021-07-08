@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on the intersection of organic chemistry and materials science with emphasis on the synthesis and understanding of organic materials with well-controlled electronic and optical properties. Our overarching philosophy is the exploration of the relationships between chemical structure and resulting properties so as to facilitate discovery of new materials for organic solar cells, organic electronics, water splitting, and other practical applications.
+bio:
 
 interests:
 - Polymer Chemisty
@@ -42,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'lupingyu@uchicago.edu'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=hALdH8YAAAAJ&view_op=list_works&sortby=pubdate
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Principal Investigators
 ---
 
 My research is focused on the intersection of organic chemistry and materials science with emphasis on the synthesis and understanding of organic materials with well-controlled electronic and optical properties. Our overarching philosophy is the exploration of the relationships between chemical structure and resulting properties so as to facilitate discovery of new materials for organic solar cells, organic electronics, water splitting, and other practical applications.

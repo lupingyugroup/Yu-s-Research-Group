@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-<div class="grid-sizer col-lg-12 isotope-item pubtype-0 year-0001">Publications in 2011</a></div>
+<b><div class="grid-sizer col-lg-14 isotope-item pubtype-0 year-0001">Publications in 2011</b></div>

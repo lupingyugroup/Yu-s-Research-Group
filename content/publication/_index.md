@@ -49,8 +49,7 @@ header:
 (17) Lefevre, Florent, et al. "Algal fluorescence sensor integrated into a microfluidic chip for water pollutant detection." Lab on a Chip 12.4 (2012): 787-793.
     <a href="https://pubs.rsc.org/en/content/articlehtml/2012/lc/c2lc20998e?casa_token=TFLARa2UWvIAAAAA:PBSj-J6q5Sr6R0YFp8u0h3d4pCXZoGcbohbBHx_0IYWCqZwjaISAO_XeGKT82NT5UhFcHy9j3Kag">Article Link</a><br>
 
-
-<b><font size=8>Publications in 2011</font></b>
+<font size=10><b>Publications in 2011</b></font>
 
 (16) Lou, Sylvia J., et al. "Effects of additives on the morphology of solution phase aggregates formed by active layer components of high-efficiency organic solar cells." Journal of the American Chemical Society 133.51 (2011): 20661-20663.
     <a href="https://pubs.acs.org/doi/abs/10.1021/ja2085564?casa_token=lU1qM_SHyOAAAAAA:RI9CfYvgwWfNtC2SQQj3O1E62X0Tsobh8is6ikdrgrCYwyOjR5EuEXXaEB5Exmi1CaJBLNRL_IPYAg">Article Link</a><br>

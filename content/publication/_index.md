@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-<b><div class="grid-sizer col-lg-14 isotope-item pubtype-0 year-0001">Publications in 2012</b></div>
+<b><font size=12>Publications in 2012</b></font>
 
 (27) You, Jingbi, et al. "Metal oxide nanoparticles as an electron©\transport layer in high©\performance and stable inverted polymer solar cells." Advanced Materials 24.38 (2012): 5267-5272.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201201958?casa_token=vwZZsH8zC0sAAAAA:-X-9bc0fcqhENxSSng2QQPwPh4Y-ar6t5eO0bk7ad1gFGrDRcgpt50FyRjcNpkHZ2V0SkRJgw4f34w">Article Link</a><br>
@@ -48,7 +48,7 @@ header:
 (17) Lefevre, Florent, et al. "Algal fluorescence sensor integrated into a microfluidic chip for water pollutant detection." Lab on a Chip 12.4 (2012): 787-793.
     <a href="https://pubs.rsc.org/en/content/articlehtml/2012/lc/c2lc20998e?casa_token=TFLARa2UWvIAAAAA:PBSj-J6q5Sr6R0YFp8u0h3d4pCXZoGcbohbBHx_0IYWCqZwjaISAO_XeGKT82NT5UhFcHy9j3Kag">Article Link</a><br>
 
-# Publications in 2011
+
 <b><div class="grid-sizer col-lg-14 isotope-item pubtype-0 year-0001">Publications in 2011</b></div>
 
 (16) Lou, Sylvia J., et al. "Effects of additives on the morphology of solution phase aggregates formed by active layer components of high-efficiency organic solar cells." Journal of the American Chemical Society 133.51 (2011): 20661-20663.

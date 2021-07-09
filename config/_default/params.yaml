@@ -36,7 +36,7 @@ directions: GCIS E419A
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'lupingyu@uchicago.edu'
+# appointment_url: 'lupingyu@uchicago.edu'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
@@ -77,9 +77,9 @@ sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is licensed under {University of Chicago - All Rights Reserved}'
 plugins_js: []
 avatar:
   gravatar: false

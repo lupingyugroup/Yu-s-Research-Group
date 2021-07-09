@@ -12,7 +12,7 @@ header:
   caption: ""
   image: ""
 ---
-# Publications in 2012
+
 <b><div class="grid-sizer col-lg-14 isotope-item pubtype-0 year-0001">Publications in 2012</b></div>
 
 (27) You, Jingbi, et al. "Metal oxide nanoparticles as an electron©\transport layer in high©\performance and stable inverted polymer solar cells." Advanced Materials 24.38 (2012): 5267-5272.

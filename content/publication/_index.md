@@ -13,9 +13,9 @@ header:
   image: ""
 ---
 
-<b><font size=12>Publications in 2012</b></font>
+<b><font size=10>Publications in 2012</b></font>
 
-(27) You, Jingbi, et al. "Metal oxide nanoparticles as an electron©\transport layer in high©\performance and stable inverted polymer solar cells." Advanced Materials 24.38 (2012): 5267-5272.
+(27) You, Jingbi, et al. "Metal oxide nanoparticles as an electron-transport layer in high-performance and stable inverted polymer solar cells." Advanced Materials 24.38 (2012): 5267-5272.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201201958?casa_token=vwZZsH8zC0sAAAAA:-X-9bc0fcqhENxSSng2QQPwPh4Y-ar6t5eO0bk7ad1gFGrDRcgpt50FyRjcNpkHZ2V0SkRJgw4f34w">Article Link</a><br>
 
 (26) Wang, Zhuo, et al. "Nanoporous porphyrin polymers for gas storage and separation." Macromolecules 45.18 (2012): 7413-7419.
@@ -49,12 +49,12 @@ header:
     <a href="https://pubs.rsc.org/en/content/articlehtml/2012/lc/c2lc20998e?casa_token=TFLARa2UWvIAAAAA:PBSj-J6q5Sr6R0YFp8u0h3d4pCXZoGcbohbBHx_0IYWCqZwjaISAO_XeGKT82NT5UhFcHy9j3Kag">Article Link</a><br>
 
 
-<b><div class="grid-sizer col-lg-14 isotope-item pubtype-0 year-0001">Publications in 2011</b></div>
+<b><font size=10>Publications in 2012</b></font>
 
 (16) Lou, Sylvia J., et al. "Effects of additives on the morphology of solution phase aggregates formed by active layer components of high-efficiency organic solar cells." Journal of the American Chemical Society 133.51 (2011): 20661-20663.
     <a href="https://pubs.acs.org/doi/abs/10.1021/ja2085564?casa_token=lU1qM_SHyOAAAAAA:RI9CfYvgwWfNtC2SQQj3O1E62X0Tsobh8is6ikdrgrCYwyOjR5EuEXXaEB5Exmi1CaJBLNRL_IPYAg">Article Link</a><br>
 
-(15) Carsten, Bridget, et al. "Examining the effect of the dipole moment on charge separation in donor¨Cacceptor polymers for organic photovoltaic applications." Journal of the American Chemical Society 133.50 (2011): 20468-20475.
+(15) Carsten, Bridget, et al. "Examining the effect of the dipole moment on charge separation in donor-acceptor polymers for organic photovoltaic applications." Journal of the American Chemical Society 133.50 (2011): 20468-20475.
     <a href="https://pubs.acs.org/doi/abs/10.1021/ja208642b?casa_token=YGMBdNZW5tIAAAAA:h58xvMQPvNAWYhu6rLWZxQ-r_AUcr_ZitUe6i6LaXObzVmK8V-6zQvZY8u4iyqozT3vh-mEIIRiqRw">Article Link</a><br>
 
 (14) Murray, Ian P., et al. "Graphene oxide interlayers for robust, high-efficiency organic photovoltaics." The Journal of Physical Chemistry Letters 2.24 (2011): 3006-3012.
@@ -69,7 +69,7 @@ header:
 (11) Hammond, Matthew R., et al. "Molecular order in high-efficiency polymer/fullerene bulk heterojunction solar cells." ACS nano 5.10 (2011): 8248-8257.
     <a href="https://pubs.acs.org/doi/abs/10.1021/nn202951e?casa_token=DcfjujGvMB0AAAAA:DbEBRH_LIG_QIhEAZqF80iMnJrra3mFNgUnQ5E1ppHbkbUGW3RutBLZODjCLsbLuns9-wE6nn4SVcw">Article Link</a><br>
 
-(10) Zang, Huidong, et al. "Intra©\molecular donor¨Cacceptor interaction effects on charge dissociation, charge transport, and charge collection in bulk©\heterojunction organic solar cells." Advanced Energy Materials 1.5 (2011): 923-929.
+(10) Zang, Huidong, et al. "Intra-molecular donor-acceptor interaction effects on charge dissociation, charge transport, and charge collection in bulk-heterojunction organic solar cells." Advanced Energy Materials 1.5 (2011): 923-929.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201100304?casa_token=KYISUhou0LMAAAAA:iLBwrV_wf13KG_Um54nSt7ej6OUqWkyJjP9mt1FF_5KuccBVncXp3F-23PwjMJM6x7OLhKF9HQjbzQ">Article Link</a><br>
 
 (9) Chen, Wei, et al. "Hierarchical nanomorphologies promote exciton dissociation in polymer/fullerene bulk heterojunction solar cells." Nano letters 11.9 (2011): 3707-3713.
@@ -81,7 +81,7 @@ header:
 (7) Wang, Wei, and Luping Yu. "Intramolecular hydrogen bonding assisted charge transport through single rectifying molecule." Langmuir 27.6 (2011): 2084-2087.
     <a href="https://pubs.acs.org/doi/abs/10.1021/la104002s?casa_token=M-TOXjevBKcAAAAA:MTPSr3a7ScgpLCmJUSlHnZcr4Wd8eJBd25iDZRJCrU2FGUqu0HDtlAinmuL9MydG6z639W5UXM17vg">Article Link</a><br>
 
-(6) Liang, Yongye, and Luping Yu. "Conjugated block copolymers and cooligomers." Self©\Organized Organic Semiconductors: From Materials to Device Applications (2011): 21-38.
+(6) Liang, Yongye, and Luping Yu. "Conjugated block copolymers and cooligomers." Self-Organized Organic Semiconductors: From Materials to Device Applications (2011): 21-38.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470949122.ch2">Article Link</a><br>
 
 (5) Carsten, Bridget, et al. "Stille polycondensation for synthesis of functional materials." Chemical reviews 111.3 (2011): 1493-1528.

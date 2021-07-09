@@ -14,10 +14,10 @@ header:
 ---
 <body>
 
-<b><font size=10>Publications in 2012</font></b>
+<b><font size=8>Publications in 2012</font></b>
 
 (27) You, Jingbi, et al. "Metal oxide nanoparticles as an electron-transport layer in high-performance and stable inverted polymer solar cells." Advanced Materials 24.38 (2012): 5267-5272.
-    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201201958?casa_token=vwZZsH8zC0sAAAAA:-X-9bc0fcqhENxSSng2QQPwPh4Y-ar6t5eO0bk7ad1gFGrDRcgpt50FyRjcNpkHZ2V0SkRJgw4f34w">Article Link</a><br>
+    </b>a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201201958?casa_token=vwZZsH8zC0sAAAAA:-X-9bc0fcqhENxSSng2QQPwPh4Y-ar6t5eO0bk7ad1gFGrDRcgpt50FyRjcNpkHZ2V0SkRJgw4f34w">Article Link</a><br>
 
 (26) Wang, Zhuo, et al. "Nanoporous porphyrin polymers for gas storage and separation." Macromolecules 45.18 (2012): 7413-7419.
     <a href="https://pubs.acs.org/doi/abs/10.1021/ma301426e?casa_token=PThK_RX3uPIAAAAA:6lEiWrZyMk3iX2gW3zD1Q6ql60xDy6sfXjKFKSMjq47Hrfk_GVG9n8f40c6ObDix3SPUPiIC8AK4uw">Article Link</a><br>
@@ -50,7 +50,7 @@ header:
     <a href="https://pubs.rsc.org/en/content/articlehtml/2012/lc/c2lc20998e?casa_token=TFLARa2UWvIAAAAA:PBSj-J6q5Sr6R0YFp8u0h3d4pCXZoGcbohbBHx_0IYWCqZwjaISAO_XeGKT82NT5UhFcHy9j3Kag">Article Link</a><br>
 
 
-<b><font size=10>Publications in 2011</font></b>
+<b><font size=8>Publications in 2011</font></b>
 
 (16) Lou, Sylvia J., et al. "Effects of additives on the morphology of solution phase aggregates formed by active layer components of high-efficiency organic solar cells." Journal of the American Chemical Society 133.51 (2011): 20661-20663.
     <a href="https://pubs.acs.org/doi/abs/10.1021/ja2085564?casa_token=lU1qM_SHyOAAAAAA:RI9CfYvgwWfNtC2SQQj3O1E62X0Tsobh8is6ikdrgrCYwyOjR5EuEXXaEB5Exmi1CaJBLNRL_IPYAg">Article Link</a><br>

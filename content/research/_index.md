@@ -14,9 +14,9 @@ header:
 ---
 <body>
 
-<font size=10><b>Polymer Chemistry</b></font>
+<font size="10"><b>Polymer Chemistry</b></font>
 
-We are especially interested in exploring reactions that require mild reaction conditions for syntheses of functional polymers and materials.
+We are especially interested in exploring reactions that require mild reaction conditions for syntheses of functional polymers and materials.<br>
 
   1. Palladium-mediated coupling reactions (The Heck reaction, the Stille coupling reaction) for polycondensation;
 
@@ -26,7 +26,7 @@ We are especially interested in exploring reactions that require mild reaction c
 
   4. Ladder polymer chemistry that allows syntheses of ladder types of heteroacenes and heterohelicenes.
 
-<font size=10><b>Functional Materials</b></font>
+<font size="10"><b>Functional Materials</b></font>
 
   1. <b>Solar cell materials.</b> Our group is engaged in developing low bandgap materials that can efficiently harvest and convert solar energy into electricity. Two types of molecules are being designed and synthesized. a) p-Type low bandgap semiconducting polymers both linear and two-dimensional. b) n-Type semiconductors as electron-acceptors. We are developing state of art materials for both fundamental studies and device optimization. Extensive effort is devoted to the characterization of these new materials with regard to their structural and photophysical properties. In addition to designing functional materials, approaches to optimizing light conversion are pursued through device engineering and the optimization of processing conditions, including plasmonic enhancement of light absorption, nanotubes for increased charge transport, and ternary blend solar cells.
   

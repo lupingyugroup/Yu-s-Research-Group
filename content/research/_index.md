@@ -22,9 +22,9 @@ We are especially interested in exploring reactions that require mild reaction c
 
   2. Living ring-opening polymerization for the synthesis of biocompatible polyesters;
 
-  3. Exploring new polycondensation reactions (C-H bond activation reactions) as an alternative method to the Stille reaction.
+  3. Exploring new polycondensation reactions (C-H bond activation reactions) as an alternative method to the Stille reaction;
 
-  4.Ladder polymer chemistry that allows syntheses of ladder types of heteroacenes and heterohelicenes.
+  4. Ladder polymer chemistry that allows syntheses of ladder types of heteroacenes and heterohelicenes.
 
 <font size=10><b>Functional Materials</b></font>
 

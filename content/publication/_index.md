@@ -14,10 +14,10 @@ header:
 ---
 <body>
 
-<b><font size=8>Publications in 2012</font></b>
+<b>Publications in 2012</b><font size=10>Publications in 2012</font>
 
 (27) You, Jingbi, et al. "Metal oxide nanoparticles as an electron-transport layer in high-performance and stable inverted polymer solar cells." Advanced Materials 24.38 (2012): 5267-5272.
-    </b>a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201201958?casa_token=vwZZsH8zC0sAAAAA:-X-9bc0fcqhENxSSng2QQPwPh4Y-ar6t5eO0bk7ad1gFGrDRcgpt50FyRjcNpkHZ2V0SkRJgw4f34w">Article Link</a><br>
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201201958?casa_token=vwZZsH8zC0sAAAAA:-X-9bc0fcqhENxSSng2QQPwPh4Y-ar6t5eO0bk7ad1gFGrDRcgpt50FyRjcNpkHZ2V0SkRJgw4f34w">Article Link</a><br>
 
 (26) Wang, Zhuo, et al. "Nanoporous porphyrin polymers for gas storage and separation." Macromolecules 45.18 (2012): 7413-7419.
     <a href="https://pubs.acs.org/doi/abs/10.1021/ma301426e?casa_token=PThK_RX3uPIAAAAA:6lEiWrZyMk3iX2gW3zD1Q6ql60xDy6sfXjKFKSMjq47Hrfk_GVG9n8f40c6ObDix3SPUPiIC8AK4uw">Article Link</a><br>

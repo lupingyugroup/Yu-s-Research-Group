@@ -18,4 +18,4 @@ advanced:
 ---
 
 (1) Son, Hae Jung, et al. "Are we there yet? Design of better conjugated polymers for polymer solar cells." Journal of Materials Chemistry 21.47 (2011): 18934-18945. 
-    Artical Link_url: https://pubs.rsc.org/en/content/articlehtml/2011/jm/c1jm12388b?casa_token=rT3IZef_scUAAAAA:srgQYImZcM-URk0VZcbk1rWGXsLlo7mlozYoq_xe_OHDgYSHTDutqiPMpgIoOFIL1EeHsX7Gatel
+    <a href="https://pubs.rsc.org/en/content/articlehtml/2011/jm/c1jm12388b?casa_token=rT3IZef_scUAAAAA:srgQYImZcM-URk0VZcbk1rWGXsLlo7mlozYoq_xe_OHDgYSHTDutqiPMpgIoOFIL1EeHsX7Gatel">Article Link</a><br> 

@@ -77,16 +77,16 @@ sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: false
+  share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {University of Chicago - All Rights Reserved}'
+  notice: 'This work is licensed under {license}'
 plugins_js: []
 avatar:
   gravatar: false
   shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
+# publications:
+#   date_format: January 2006
+#   citation_style: apa
 projects:
   post_view: 2
   publication_view: 2

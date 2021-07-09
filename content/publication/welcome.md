@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Welcome to My Research Group!"
+title: "Publications in 2011"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,6 @@ advanced:
   css_class:
 ---
 
-My group is focused on the intersection of organic chemistry and materials science with emphasis on the synthesis and understanding of organic materials with well-controlled electronic and optical properties. Our overarching philosophy is the exploration of the relationships between chemical structure and resulting properties so as to facilitate discovery of new materials for organic solar cells, organic electronics, water splitting, and other practical applications.
+(1) Son, Hae Jung, et al. "Are we there yet? Design of better conjugated polymers for polymer solar cells." Journal of Materials Chemistry 21.47 (2011): 18934-18945. 
+  - Artical Link 
+    Link: https://pubs.rsc.org/en/content/articlehtml/2011/jm/c1jm12388b?casa_token=rT3IZef_scUAAAAA:srgQYImZcM-URk0VZcbk1rWGXsLlo7mlozYoq_xe_OHDgYSHTDutqiPMpgIoOFIL1EeHsX7Gatel

@@ -38,7 +38,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (97) Yuan, Dafei, et al. "Foldable semi-ladder polymers: novel aggregation behavior and high-performance solution-processed organic light-emitting transistors." Chemical science 11.41 (2020): 11315-11321.
     <a href="https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc04068a">Article Link</a><br>
 
-(96) Leonard, Ariel A., et al. "Photophysical implications of ring fusion, linker length, and twisting angle in a series of perylenediimide¨Cthienoacene dimers." Chemical science 11.27 (2020): 7133-7143.
+(96) Leonard, Ariel A., et al. "Photophysical implications of ring fusion, linker length, and twisting angle in a series of perylenediimide-thienoacene dimers." Chemical science 11.27 (2020): 7133-7143.
     <a href="https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc02862b">Article Link</a><br>
 
 (95) Carlotti, Benedetta, et al. "Activating intramolecular singlet exciton fission by altering ¦Ð-bridge flexibility in perylene diimide trimers for organic solar cells." Chemical science 11.33 (2020): 8757-8770.
@@ -69,7 +69,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 
 <font size=10><b>Publications in 2018</b></font>
 
-(88) Awais, Mohammad Ahmad, et al. "Molecular Design towards Controlling Charge Transport." Chemistry¨CA European Journal 24.65 (2018): 17180-17187.
+(88) Awais, Mohammad Ahmad, et al. "Molecular Design towards Controlling Charge Transport." Chemistry-A European Journal 24.65 (2018): 17180-17187.
     <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201803054">Article Link</a><br>
 
 (87) Cai, Zhengxu, et al. "Exploration of syntheses and functions of higher ladder-type ¦Ð-conjugated heteroacenes." Chem 4.11 (2018): 2538-2570.
@@ -90,7 +90,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (82) Carlotti, Benedetta, et al. "Charge Transfer and aggregation effects on the performance of planar vs twisted nonfullerene acceptor isomers for organic solar cells." Chemistry of Materials 30.13 (2018): 4263-4276.
     <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b01047">Article Link</a><br>
 
-(81) Cai, Zhengxu, et al. "Synthesis of Alternating Donor¨CAcceptor Ladder©\Type Molecules and Investigation of Their Multiple Charge©\Transfer Pathways." Angewandte Chemie 130.22 (2018): 6552-6558.
+(81) Cai, Zhengxu, et al. "Synthesis of Alternating Donor-Acceptor Ladder-Type Molecules and Investigation of Their Multiple Charge-Transfer Pathways." Angewandte Chemie 130.22 (2018): 6552-6558.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201713323">Article Link</a><br>
 
 (80) Sharapov, Valerii, et al. "High performance ternary organic solar cells due to favored interfacial connection by a non-fullerene electron acceptor with cross-like molecular geometry." The Journal of Physical Chemistry C 122.21 (2018): 11305-11311.
@@ -107,7 +107,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (77) Cai, Zhengxu, et al. "Two photon absorption study of low-bandgap, fully conjugated perylene diimide-thienoacene-perylene diimide ladder-type molecules." Chemistry of Materials 29.16 (2017): 6726-6732.
     <a href="Two photon absorption study of low-bandgap, fully conjugated perylene diimide-thienoacene-perylene diimide ladder-type molecules">Article Link</a><br>
 
-(76) Zhang, Na, et al. "A single©\molecular AND gate operated with two orthogonal switching mechanisms." Advanced Materials 29.28 (2017): 1701248.
+(76) Zhang, Na, et al. "A single-molecular AND gate operated with two orthogonal switching mechanisms." Advanced Materials 29.28 (2017): 1701248.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201701248">Article Link</a><br>
 
 (75) Mukherjee, Subhrangsu, et al. "Morphological characterization of fullerene and fullerene-free organic photovoltaics by combined real and reciprocal space techniques." Journal of Materials Research 32.10 (2017): 1921-1934.
@@ -125,7 +125,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 <font size=10><b>Publications in 2016</b></font>
 
 
-(71) Li, Lianwei, et al. "Donor¨Cacceptor porous conjugated polymers for photocatalytic hydrogen production: The importance of acceptor comonomer." Macromolecules 49.18 (2016): 6903-6909.
+(71) Li, Lianwei, et al. "Donor-acceptor porous conjugated polymers for photocatalytic hydrogen production: The importance of acceptor comonomer." Macromolecules 49.18 (2016): 6903-6909.
     <a href="https://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b01764">Article Link</a><br>
 
 (70) Lo, Wai-Yip, et al. "Beyond molecular wires: design molecular electronic functions based on dipolar effect." Accounts of chemical research 49.9 (2016): 1852-1863.
@@ -169,7 +169,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (58) Lu, Luyao, et al. "Recent advances in bulk heterojunction polymer solar cells." Chemical reviews 115.23 (2015): 12666-12731.
     <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.5b00098">Article Link</a><br>
 
-(57) Jung, In Hwan, et al. "Development and structure/property relationship of new electron accepting polymers based on thieno [2¡ä, 3¡ä: 4, 5] pyrido [2, 3-g] thieno [3, 2-c] quinoline-4, 10-dione for all-polymer solar cells." Chemistry of Materials 27.17 (2015): 5941-5948.
+(57) Jung, In Hwan, et al. "Development and structure/property relationship of new electron accepting polymers based on thieno [2', 3': 4, 5] pyrido [2, 3-g] thieno [3, 2-c] quinoline-4, 10-dione for all-polymer solar cells." Chemistry of Materials 27.17 (2015): 5941-5948.
     <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b01928">Article Link</a><br>
 
 (56) Lu, Luyao, et al. "Status and prospects for ternary organic photovoltaics." Nature Photonics 9.8 (2015): 491-500.
@@ -178,7 +178,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (55) Cho, Sung, et al. "Solution phase exciton diffusion dynamics of a charge-transfer copolymer ptb7 and a homopolymer p3ht." The Journal of Physical Chemistry B 119.24 (2015): 7447-7456.
     <a href="https://pubs.acs.org/doi/abs/10.1021/jp5111345">Article Link</a><br>
 
-(54) Niklas, Jens, et al. "Photoinduced dynamics of charge separation: from photosynthesis to polymer¨Cfullerene bulk heterojunctions." The Journal of Physical Chemistry B 119.24 (2015): 7407-7416.
+(54) Niklas, Jens, et al. "Photoinduced dynamics of charge separation: from photosynthesis to polymer-fullerene bulk heterojunctions." The Journal of Physical Chemistry B 119.24 (2015): 7407-7416.
     <a href="https://pubs.acs.org/doi/abs/10.1021/jp511021v">Article Link</a><br>
 
 (53) Lu, Luyao, et al. "High-performance ternary blend polymer solar cells involving both energy transfer and hole relay processes." Nature communications 6.1 (2015): 1-7.
@@ -242,7 +242,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 
 <font size=10><b>Publications in 2013</b></font>
 
-(34) Yuan, Shengwen, et al. "A Highly Active and Support©\Free Oxygen Reduction Catalyst Prepared from Ultrahigh©\Surface©\Area Porous Polyporphyrin." Angewandte Chemie 125.32 (2013): 8507-8511.
+(34) Yuan, Shengwen, et al. "A Highly Active and Support-Free Oxygen Reduction Catalyst Prepared from Ultrahigh-Surface-Area Porous Polyporphyrin." Angewandte Chemie 125.32 (2013): 8507-8511.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201302924">Article Link</a><br>
 
 (33) Lu, Luyao, et al. "The role of N-doped multiwall carbon nanotubes in achieving highly efficient polymer bulk heterojunction solar cells." Nano letters 13.6 (2013): 2365-2369.
@@ -254,7 +254,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (31) Yu, Luping, et al. "Porous polymeric materials for hydrogen storage." U.S. Patent No. 8,410,185. 2 Apr. 2013.
     <a href="https://patents.google.com/patent/US8410185B2/en">Article Link</a><br>
 
-(30) Son, Hae Jung, et al. "Synthesis and photovoltaic effect in dithieno [2, 3©\d: 2¡ä, 3¡ä©\d¡ä] benzo [1, 2©\b: 4, 5©\b¡ä] dithiophene©\based conjugated polymers." Advanced Materials 25.6 (2013): 838-843.
+(30) Son, Hae Jung, et al. "Synthesis and photovoltaic effect in dithieno [2, 3-d: 2', 3'-d'] benzo [1, 2-b: 4, 5-b'] dithiophene-based conjugated polymers." Advanced Materials 25.6 (2013): 838-843.
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201204238">Article Link</a><br>
 
 (29) Lu, Luyao, et al. "Cooperative plasmonic effect of Ag and Au nanoparticles on enhancing performance of polymer solar cells." Nano letters 13.1 (2013): 59-64.

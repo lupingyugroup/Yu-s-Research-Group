@@ -155,7 +155,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (62) Pandit, Bill, et al. "Molecular Structure Controlled Transitions between Free-Charge Generation and Trap Formation in a Conjugated Copolymer Series." The Journal of Physical Chemistry C 120.8 (2016): 4189-4198.
     <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10291">Article Link</a><br>
 
-(61) Zhao, Donglin, et al. "Electron acceptors based on ¦Á-substituted perylene diimide (PDI) for organic solar cells." Chemistry of Materials 28.4 (2016): 1139-1146.
+(61) Zhao, Donglin, et al. "Electron acceptors based on Alpha-substituted perylene diimide (PDI) for organic solar cells." Chemistry of Materials 28.4 (2016): 1139-1146.
     <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b04570">Article Link</a><br>
 
 (60) Zheng, Tianyue, et al. "Synthesis of ladder-type thienoacenes and their electronic and optical properties." Journal of the American Chemical Society 138.3 (2016): 868-875.
@@ -260,7 +260,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (29) Lu, Luyao, et al. "Cooperative plasmonic effect of Ag and Au nanoparticles on enhancing performance of polymer solar cells." Nano letters 13.1 (2013): 59-64.
     <a href="https://pubs.acs.org/doi/abs/10.1021/nl3034398">Article Link</a><br>
 
-(28) Niklas, Jens, et al. "Highly-efficient charge separation and polaron delocalization in polymer¨Cfullerene bulk-heterojunctions: A comparative multi-frequency EPR and DFT study." Physical Chemistry Chemical Physics 15.24 (2013): 9562-9574.
+(28) Niklas, Jens, et al. "Highly-efficient charge separation and polaron delocalization in polymer-fullerene bulk-heterojunctions: A comparative multi-frequency EPR and DFT study." Physical Chemistry Chemical Physics 15.24 (2013): 9562-9574.
     <a href="https://pubs.rsc.org/en/content/articlehtml/2013/cp/c3cp51477c">Article Link</a><br>
 
 

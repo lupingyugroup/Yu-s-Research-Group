@@ -41,7 +41,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (96) Leonard, Ariel A., et al. "Photophysical implications of ring fusion, linker length, and twisting angle in a series of perylenediimide-thienoacene dimers." Chemical science 11.27 (2020): 7133-7143.
     <a href="https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc02862b">Article Link</a><br>
 
-(95) Carlotti, Benedetta, et al. "Activating intramolecular singlet exciton fission by altering ¦Ð-bridge flexibility in perylene diimide trimers for organic solar cells." Chemical science 11.33 (2020): 8757-8770.
+(95) Carlotti, Benedetta, et al. "Activating intramolecular singlet exciton fission by altering Pi-bridge flexibility in perylene diimide trimers for organic solar cells." Chemical science 11.33 (2020): 8757-8770.
     <a href="https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc03271a">Article Link</a><br>
 
 (94) Fauvell, Thomas J., et al. "Effects of intra-and interchain interactions on exciton dynamics of PTB7 revealed by model oligomers." Molecules 25.10 (2020): 2441.
@@ -64,7 +64,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
     <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b08185">Article Link</a><br>
 
 
-(89) Cai, Zhengxu, et al. "Exploration of Syntheses and Functions of Higher Ladder-type ¦Ð-Conjugated Heteroacenes." Chem 5.1 (2019): 245-247.
+(89) Cai, Zhengxu, et al. "Exploration of Syntheses and Functions of Higher Ladder-type Pi-Conjugated Heteroacenes." Chem 5.1 (2019): 245-247.
     <a href="https://www.cell.com/chem/pdf/S2451-9294(18)30576-X.pdf">Article Link</a><br>
 
 <font size=10><b>Publications in 2018</b></font>
@@ -72,7 +72,7 @@ Direct link to publisher provided. For citation listings see: <a href="https://s
 (88) Awais, Mohammad Ahmad, et al. "Molecular Design towards Controlling Charge Transport." Chemistry-A European Journal 24.65 (2018): 17180-17187.
     <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201803054">Article Link</a><br>
 
-(87) Cai, Zhengxu, et al. "Exploration of syntheses and functions of higher ladder-type ¦Ð-conjugated heteroacenes." Chem 4.11 (2018): 2538-2570.
+(87) Cai, Zhengxu, et al. "Exploration of syntheses and functions of higher ladder-type Pi-conjugated heteroacenes." Chem 4.11 (2018): 2538-2570.
     <a href="https://www.sciencedirect.com/science/article/pii/S2451929418303693">Article Link</a><br>
 
 (86) Walwark Jr, David J., et al. "Conformational Flexibility Determines Electronic Coupling and Charge Transfer Character in Single Propeller-Shaped Perylene Diimide Tetramer Arrays." The Journal of Physical Chemistry C 122.41 (2018): 23261-23270.

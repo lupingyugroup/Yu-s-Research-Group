@@ -5,7 +5,7 @@
 
 title: Yu's Research Group # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'University of Chicago - All Rights Reserved' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

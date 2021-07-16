@@ -10,6 +10,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
+  <img src="media/uchicago_logo.jpg" alt="Oops! The image failed to load correctly." />
   image: "media/uchicago_logo.jpg"
   image_size: actual
 

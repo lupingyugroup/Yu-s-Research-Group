@@ -1,12 +1,14 @@
 ---
-title: Postdoctoral Researcher for Physical Chemistry
-date: 2021-07-23
+title: Richard Hendricks Wins First Place in the Wowchemy Prize
+date: 2020-12-01
 ---
+
+Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 
 <!--more-->
 
-One post-doctoral researcher position is available to focus on several cutting-edge projects about synthesis and characterization of luminescent ladder monomers and comonomers. This position will be incharge of the characterization of polymers, including optical measurements, studies of morphological and molecular aggregation states and light-emitting properties in OLET devices.<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
 
-Applicants must have extensive knowledge and experience in physical chemistry, have various lab techniques and are familiar to the work contents above. Applicants should have or anticipate to have a PhD in related field with relevant experience. A high level of self-motivation and participation in a collaborative team is required. Preference will be given to those with a strong publication record.<br>
+Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
 
-The position will remain open until filled. Our lab also focuses on helping fellows to develop their own career path to ensure that they are competitive for next step of jobs when finish the term as a post-doc fellow. If interested, please send a CV, a research statement to: lupingyu@uchicago.edu<br>
+Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.

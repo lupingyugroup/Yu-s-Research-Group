@@ -1,6 +1,6 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Postdoctoral Researcher for Physical Chemistry
+date: 2021-07-23
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.

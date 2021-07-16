@@ -9,9 +9,9 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "actual"
+  caption: ""
   image: "media/uchicago_logo.jpg"
-  image_size: actual
+  
 
 ---
 

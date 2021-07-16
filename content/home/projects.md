@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
-title: "Our current projects are as follows:"
+title: ""
 subtitle: ""
 
 design:
@@ -16,7 +16,9 @@ advanced:
   css_style:
   css_class:
 ---
-
+Our overarching philosophy is to take an interdisciplinary approach to the exploration of the relationships between chemical structure and physical properties of resulting materials.  New chemical synthetic methodologies are developed to facilitate design and discovery of new materials for organic solar cells, organic electronics, water splitting, and other practical applications.  
+<br>
+Our current projects are as follows:<br>
 1. Polymer chemistry focuses on Pd-mediated polycondensation.<br>
 2. Low bandgap polymers as light harvesting materials.<br>
 3. Novel ladder oligomers and polymers for organic light emission transistor (OLETs).<br>

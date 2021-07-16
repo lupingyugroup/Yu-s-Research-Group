@@ -10,7 +10,11 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "uchicago_logo.jpg"
+  image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: contain
 ---
 <body>
 

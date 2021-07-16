@@ -1,6 +1,6 @@
 ﻿---
 title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+date: 2021-07-23
 ---
 
 One post-doctoral researcher position is available to focus on several cutting-edge projects about synthesis and characterization of luminescent ladder monomers and comonomers. This position will be incharge of the characterization of polymers, including optical measurements, studies of morphological and molecular aggregation states and light-emitting properties in OLET devices.<br>

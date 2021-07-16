@@ -1,12 +1,8 @@
 ---
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
 title:""
 weight: 20
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
 
 ---
 <body>

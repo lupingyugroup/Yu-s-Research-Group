@@ -10,12 +10,15 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "uchicago_logo.jpg"
-  image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: contain
+  image: ""
+
 ---
+<head>
+
+<img src="media/uchicago_logo.jpg" alt="Oops! The image failed to load correctly." />
+
+</head>
+
 <body>
 
 <font size="10"><b>Polymer Chemistry</b></font>

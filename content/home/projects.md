@@ -7,23 +7,9 @@ weight: 20
 title: 
 subtitle:
 
-content:
-  count: 1
-  filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
-  order: desc
-  page_type: 
-design:
-  view: 1
-  columns: "1"
 ---
 <body>
-<font size=14.15>Our overarching philosophy is to take an interdisciplinary approach to the exploration of the relationships between chemical structure and physical properties of resulting materials.  New chemical synthetic methodologies are developed to facilitate design and discovery of new materials for organic solar cells, organic electronics, water splitting, and other practical applications.  
+<font size=10>Our overarching philosophy is to take an interdisciplinary approach to the exploration of the relationships between chemical structure and physical properties of resulting materials.  New chemical synthetic methodologies are developed to facilitate design and discovery of new materials for organic solar cells, organic electronics, water splitting, and other practical applications.  
 <br>
 Our current projects are as follows:<br>
 1. Polymer chemistry focuses on Pd-mediated polycondensation.<br>

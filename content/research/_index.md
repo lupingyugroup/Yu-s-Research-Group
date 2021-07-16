@@ -11,6 +11,7 @@ view: 2
 header:
   caption: ""
   image: "media/uchicago_logo.jpg"
+  image_size: actual
 
 ---
 

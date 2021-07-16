@@ -1,11 +1,12 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-headless: true
+title:""
 weight: 20
 
-title: 
-subtitle:
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 
 ---
 <body>

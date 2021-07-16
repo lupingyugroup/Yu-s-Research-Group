@@ -13,11 +13,6 @@ header:
   image: "media/uchicago_logo.jpg"
 
 ---
-<head>
-
-<img src="media/uchicago_logo.jpg" alt="Oops! The image failed to load correctly." />
-
-</head>
 
 <body>
 
